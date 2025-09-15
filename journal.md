@@ -8,3 +8,10 @@ likely need some type of website for the people to check out. Whoever is coding 
 science getting payed thousands just to do so depending on how big of a website it is. Even something as different as sports can
 have some form of computer science involved. Athletes needing to do test for vertical jumps, 40 meter dashes, and checking their health,
 need the technology developed from computer science in order to do all of these. 
+
+# September 16, 2025
+For an ai project I would an ai teaching website for all types of specific subjects from culinary to learning how to change a tire.
+It will involve broad and in depth discusssions and breakdowns on videos that showcase the exact motions of what they're doing. For example if
+someone wanted to learn how to fry an egg details such as the exact temperature, level of the oven, type of oven, and other ways to cook it would be included
+within the lesson. These are things aren't required to do the task but are given to the user to increase the knowledge they need for future tasks related
+to that situation.
