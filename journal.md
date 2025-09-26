@@ -15,3 +15,10 @@ It will involve broad and in depth discusssions and breakdowns on videos that sh
 someone wanted to learn how to fry an egg details such as the exact temperature, level of the oven, type of oven, and other ways to cook it would be included
 within the lesson. These are things aren't required to do the task but are given to the user to increase the knowledge they need for future tasks related
 to that situation.
+
+# September 22, 2025
+I truely believe that this is a horrible idea and I can't see how this would make the company any money or give teens proper work experience. My reason for saying this is that people already
+play roblox games as if they were full time jobs, giving people the incentive to waste more time on the platform and paying them 16.50$ would be a huge dentriment to their company. Not only that but I could see
+IKEA receiving lots of backlash due to not being able to hire enough people due to them literally throwing money out the window to children. They would also be paying people who sit on their behind and play
+roblox all day the same salarie or higher (most likely higher) as someone working a 5 days a week 9-5 job at convinence stores such as H.E.B, Quiktrip, and Walmart. The normal salarie for a Walmart cashier is about
+14.50$ and employees of this job would be getting paid higher. This is completely unfair and it will be detrimental to our economy.
