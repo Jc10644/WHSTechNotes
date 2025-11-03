@@ -22,3 +22,18 @@ play roblox games as if they were full time jobs, giving people the incentive to
 IKEA receiving lots of backlash due to not being able to hire enough people due to them literally throwing money out the window to children. They would also be paying people who sit on their behind and play
 roblox all day the same salarie or higher (most likely higher) as someone working a 5 days a week 9-5 job at convinence stores such as H.E.B, Quiktrip, and Walmart. The normal salarie for a Walmart cashier is about
 14.50$ and employees of this job would be getting paid higher. This is completely unfair and it will be detrimental to our economy.
+
+# October 14, 2025
+## Link
+https://www.canva.com/design/DAG3p3PSXxs/NDs8BV5nJaTQl9A5E92rYA/edit?utm_content=DAG3p3PSXxs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## Prompt
+Create a slideshow presentation that explains variables and their uses for algebra students. Use breakfast as the center theme of the slides.
+
+## Reflection
+The results were pretty good and spot on. The slides came out as I expected and if they didn't they give out two other options on what 
+it can look like. I think if I was to change the prompt at all I would change how colorful it looks because it might be too playful. I also feel like no matter
+what you type into the ai box prompt it will always look like ai and people will be able to tell. I think that prompt engineering could be valuable in future careers because the
+more specific prompts get it does stem farther away from seeming like ai. I don't know how long the field could last though because with how fast ai is advancing you won't really
+need someone to type up a prompt eventually.
+
+
