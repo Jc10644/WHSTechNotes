@@ -44,11 +44,11 @@ need someone to type up a prompt eventually.
 | Maria	      | First       | 35B           |
 
 # October 27, 2025
-| Name        | Class       | Seat          |
-| :---        |    :----:   |          ---: |
-| Franklin    | Second      | 91A           |
-| Hardeep	    | Third       | 61F           |
-| Maria	      | First       | 35B           |
+| Name    | Class          | Seat                |
+| :---    |    :----:      |          ---:       |
+| Fiona   |  Gado Gado     | Creme Brulee        |
+| Tobias  |  Shrimp Cevi   | French Apple Cake   |
+| Leanne	| Beef Well      | Raspberry Tiramisu  |
 
 
 
