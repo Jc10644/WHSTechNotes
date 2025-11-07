@@ -50,6 +50,21 @@ need someone to type up a prompt eventually.
 | Tobias  |  Shrimp Cevi   | French Apple Cake   |
 | Leanne	| Beef Well      | Raspberry Tiramisu  |
 
+# November 3, 2025
+The big deal with SNAP running out is that people in poverty or already living paycheck to paycheck
+wont be able to find a way to feed their families. Some people need the assistance of the SNAP program
+and when it doesn't hit they have to resort to cheaper alternatives that aren't as nutritious such as
+ramen noodles, hotdogs, or just in general, "struggle meals". One way technology can help is by spreading
+the word about food giveaways. Recently I had to help out at a food bank exchange at steele and the biggest
+problem we ran into is that people weren't coming to pick up the food so other families that didn't need it
+took the excess. With technology and more ways to notify and prepare people in need issues such as that wont
+be as drastic. The hardest part about doing this is making sure that everyone has some way to get the food
+over to them. Maybe a good way to do this would be to have some type of door dash service but for foodbanks. A
+forum that lets you assign scheduled times that people are available to get the food to their doorstep. If I was the
+designer I would name the app something similar to doordash. I would have it take in all information about the people
+and if the information they submit meet the mandate criteria for us to deliver the food, we will send out trucks to
+deliver the food in service.
+
 
 
 
