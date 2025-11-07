@@ -36,4 +36,21 @@ what you type into the ai box prompt it will always look like ai and people will
 more specific prompts get it does stem farther away from seeming like ai. I don't know how long the field could last though because with how fast ai is advancing you won't really
 need someone to type up a prompt eventually.
 
+# October 20, 2025
+| Name        | Class       | Seat          |
+| :---        |    :----:   |          ---: |
+| Franklin    | Second      | 91A           |
+| Hardeep	    | Third       | 61F           |
+| Maria	      | First       | 35B           |
+
+# October 27, 2025
+| Name        | Class       | Seat          |
+| :---        |    :----:   |          ---: |
+| Franklin    | Second      | 91A           |
+| Hardeep	    | Third       | 61F           |
+| Maria	      | First       | 35B           |
+
+
+
+
 
