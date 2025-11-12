@@ -65,6 +65,11 @@ designer I would name the app something similar to doordash. I would have it tak
 and if the information they submit meet the mandate criteria for us to deliver the food, we will send out trucks to
 deliver the food in service.
 
+# November 10, 2025
+I'm definitely excited for thanksgiving. I'm gonna be helping my mom prepare all the food as well
+as deserts. At the end we freeze some of the left overs to eat throughout the year. Me and my mom are
+also gonna recreate the Firehouse Subs thanksgiving sandwich.
+
 
 
 
