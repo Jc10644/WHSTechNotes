@@ -70,6 +70,15 @@ I'm definitely excited for thanksgiving. I'm gonna be helping my mom prepare all
 as deserts. At the end we freeze some of the left overs to eat throughout the year. Me and my mom are
 also gonna recreate the Firehouse Subs thanksgiving sandwich.
 
+# December 1, 2025
+One job that uses drones in their career field is the United States airforce. The airforce uses
+drones for airstrikes and taking out high value targets. This profession from a moral standpoint
+might be a deterrant because drone pilots fight and kill the United States enemies from long range.
+The requirements to be a drone pilot are completing basic training in the army, completing Advanced Individual Training
+for drones, and holding a FAA remote pilot certification. The rest of the training will be taught to you within the military. 
+The average pay is $69,000 for drone pilots in the army. I personally wouldn't take up this job because of the technicality of
+piloting drones as well as having to murder people from a distance.
+
 
 
 
