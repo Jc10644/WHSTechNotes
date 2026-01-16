@@ -79,6 +79,10 @@ for drones, and holding a FAA remote pilot certification. The rest of the traini
 The average pay is $69,000 for drone pilots in the army. I personally wouldn't take up this job because of the technicality of
 piloting drones as well as having to murder people from a distance.
 
+# January 16, 2026
+Aut craft was created for the purpose of allowing autistic children and families to experience the wonderful joy of playing minecraft online. This allows them to play in a safe space where they
+wont be bashed or slandered the minute they hop on the game. They're allowed to play with other people and be comfortable. One of the most important parts
+is being able to avoid the toxic environment of gaming as a whole. This is good because it excludes majority of the bullies in the community who make it unbearable to play.
 
 
 
