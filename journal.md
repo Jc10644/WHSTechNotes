@@ -84,6 +84,15 @@ Aut craft was created for the purpose of allowing autistic children and families
 wont be bashed or slandered the minute they hop on the game. They're allowed to play with other people and be comfortable. One of the most important parts
 is being able to avoid the toxic environment of gaming as a whole. This is good because it excludes majority of the bullies in the community who make it unbearable to play.
 
+# February 2, 2026
+Personal hygiene is extremely important in public spaces because bad hygeine can ruin others focus and make them not wanna be there. I think the best example
+this is seen at is in public restrooms or gastations. Nobody likes using gas station restrooms because they're known to be dirty and unsanitary. For instance, compare Circle K
+to Quiktrip. When you step into most Circle K's they usually have drink stained counters, open straw sleeves, a repugnant smell, and open mop buckets with no use. This makes customers
+wanna move over to the rival company Quiktrip. Quiktrip on the otherhand is way cleaner than Circle K. All their workers are constantly being put to work, their bathrooms stay cleaned, there's no food
+on the floor, and they smell way better than Circle K. The need for proper hygiene also relates to the idea of self regulation. Having a nasty attitude while at work or at school may also deter coustomers from wanting to 
+come to your company. Another example is lets say you're at a networking fair. If you go while wearing sweatpants and a regular tee shirt you'll look less appealing to others and therefore lose possible sponserships. These are a few
+reasons why self regulation is important in public spaces.
+
 
 
 
