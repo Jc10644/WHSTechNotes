@@ -90,9 +90,13 @@ this is seen at is in public restrooms or gastations. Nobody likes using gas sta
 to Quiktrip. When you step into most Circle K's they usually have drink stained counters, open straw sleeves, a repugnant smell, and open mop buckets with no use. This makes customers
 wanna move over to the rival company Quiktrip. Quiktrip on the otherhand is way cleaner than Circle K. All their workers are constantly being put to work, their bathrooms stay cleaned, there's no food
 on the floor, and they smell way better than Circle K. The need for proper hygiene also relates to the idea of self regulation. Having a nasty attitude while at work or at school may also deter coustomers from wanting to 
-come to your company. Another example is lets say you're at a networking fair. If you go while wearing sweatpants and a regular tee shirt you'll look less appealing to others and therefore lose possible sponserships. These are a few
+come to your company. Another example is lets say you're at a networking fair. If you go while wearing sweatpants and a regular tee shirt you'll look less appealing to others and therefore lose possible sponserships.These are a few
 reasons why self regulation is important in public spaces.
 
+# February 10, 2026
+ I enjoy the competition of football but I don't truely understand it. I never really sat down to understand the positions and the roles of the sport but I can tell what's going on enough to watch it.
+ I watched the superbowl and it was honestly one of the most boring football matches i've ever watched in my entire life.
+   
 
 
 
