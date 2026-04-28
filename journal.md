@@ -96,6 +96,8 @@ reasons why self regulation is important in public spaces.
 # February 10, 2026
  I enjoy the competition of football but I don't truely understand it. I never really sat down to understand the positions and the roles of the sport but I can tell what's going on enough to watch it.
  I watched the superbowl and it was honestly one of the most boring football matches i've ever watched in my entire life.
+ # April 27, 2026
+ I got the job at the horseracing track Retama Park.The stadium uses technology in a variety of ways to benefit the audience and company . At Retama Park lots of people go see the races just for the purpose of profiting off of bets. In order to keep a safe means of transfer, this interaction is usually through apps like prizepicks or draft kings. On top of that the stadium must have a website that displays the layout of the arena as well as seating arrangements for purchase. The races are streamed to a big screen above for the audience to spectate a closer look. The camera streaming this to the screen could be using drone technology to fly and catch the footage. Even outside of the stadium I needed to apply to the job through my phone or computer.
    
 
 
